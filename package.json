@@ -1,0 +1,22 @@
+{
+  "name": "zealoop-js",
+  "version": "1.0.0",
+  "description": "AI customer support agent for SaaS teams \u2014 docs-grounded answers, customer data lookups, and real actions behind code-level guards.",
+  "main": "index.js",
+  "keywords": [
+    "zealoop",
+    "sdk",
+    "api-client",
+    "saas"
+  ],
+  "author": {
+    "name": "Zealoop Team",
+    "url": "https://www.zealoop.com"
+  },
+  "license": "MIT",
+  "homepage": "https://www.zealoop.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pankaj-bit361/zealoop-mcp"
+  }
+}
